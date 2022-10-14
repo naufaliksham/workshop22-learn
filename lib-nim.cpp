@@ -1,5 +1,5 @@
 #include "file/header.h"
 
 int kalkulator(int a, int b) {
-    return 1;
+    return 1+1;
 }
