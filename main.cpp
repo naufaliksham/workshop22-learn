@@ -10,5 +10,5 @@ int main() {
     cin >> numB;
     cout << "Hasil = " << kalkulator(numA,numB);
 
-    return 0;
+    return 1;
 }
